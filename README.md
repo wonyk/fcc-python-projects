@@ -20,7 +20,11 @@ They are split into their respective folders, consisting of scientific computing
 
 ### Data Analysis with Python
 
-- TBC
+- Mean-Variance-Standard Deviation Calculator - An introduction to numpy by displaying relevant statistics when presented with a 3 x 3 grid. ([source](Data-Analytics/mean-variance-stddev-calculator), [demo](https://replit.com/@wonyk99/mean-variance-standard-deviation-calculator))
+- Demographic Data Analyzer - Analyse and perform various calculations using numpy and pandas. ([source](Data-Analytics/demographic-data-analyser), [demo](https://replit.com/@wonyk99/demographic-data-analyzer))
+- Medical Data Visualizer - Showcase medical data and relevant statistics using a catplot and correlation matrix. ([source](Data-Analytics/medical-data-visualiser), [demo](https://replit.com/@wonyk99/medical-data-visualizer))
+- Page View Time Scries Visualizer - Visualize data from Free Code Camp regarding the number of page views over the years and perform various visualization techniques using matplotlib and seaborn. ([source](Data-Analytics/page-view-time-series-visualiser), [demo](https://replit.com/@wonyk99/page-view-time-series-visualizer))
+- Sea Level Predictor - Use scipy to perform basic linear regression and chart out the predicted sea levels in 2050 using matplotlib. ([source](Data-Analytics/sea-level-predictor), [demo](https://replit.com/@wonyk99/sea-level-predictor))
 
 ### Machine Learning with Python
 
