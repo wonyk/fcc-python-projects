@@ -28,4 +28,8 @@ They are split into their respective folders, consisting of scientific computing
 
 ### Machine Learning with Python
 
-- TBC
+- Rock Paper Scissors - Use old school machine learning algorithm such as a Markov chain to beat other players in the game. ([source](Machine-Learning/rock-paper-scissors), [demo](https://replit.com/@wonyk99/rock-paper-scissors#main.py))
+- Cat and Dog Image Classifier - Using Deep Learning and Convolutional Neural Networks (CNN) to classify images with high accuracy. ([source](Machine-Learning/cat-and-dog-classifier), [demo]())
+- Book Recommendation Engine - Using deep learning to build a simple recommendation engine based on Content-Based and Collaborative filtering methods ([source](Machine-Learning/book-recommendation-engine), [demo]())
+- Linear Regression Health Cost Calculator - Using deep learning to build a calculator using linear regression. ([source](Machine-Learning/health-cost-calculator), [demo]())
+- Neural Network SMS Text Classifier - A simple Nueral network built using simple Natural Language Processing tools and methodologies to predict if an SMS is spam or not. ([source](Machine-Learning/sms-text-classifier), [demo]())
